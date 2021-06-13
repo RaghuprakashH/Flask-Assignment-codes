@@ -1,0 +1,5 @@
+{
+"TAB_QUERY" : "CREATE TABLE",
+"TABNAME" :  "BP777",
+"COLUMNS" :  "(Chiral_indice_n INT(10),Chiral_indice_m INT(10),Initial_atomic_coordinate_u FLOAT(7,6))"
+}

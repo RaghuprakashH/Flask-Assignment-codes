@@ -1,0 +1,6 @@
+{
+"upd_QUERY" : "UPDATE",
+"set1" : "SET",
+"cond1" : "WHERE"
+
+}

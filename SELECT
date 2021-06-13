@@ -1,0 +1,5 @@
+{
+"select_QUERY" : "SELECT * FROM",
+"condition"  : "WHERE",
+"Fielduse" : "USE"
+}

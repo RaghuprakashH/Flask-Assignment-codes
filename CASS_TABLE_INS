@@ -1,0 +1,6 @@
+{
+"ins_QUERY" : "INSERT INTO",
+"columns1" : "(Chiral_indice_n,Chiral_indice_m,Initial_atomic_coordinate_u)",
+"values" : "values (%s,%s,%s)"
+
+}

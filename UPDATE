@@ -1,0 +1,6 @@
+{
+"update_QUERY" : "UPDATE",
+"set_values" :  "SET",
+"condition"  : "WHERE",
+"Fieldup" : "USE"
+}

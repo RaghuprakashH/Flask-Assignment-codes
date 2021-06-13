@@ -1,0 +1,8 @@
+{
+"insert_QUERY" : "INSERT INTO",
+"columns" : "(Chiral_indice_n,Chiral_indice_m,Initial_atomic_coordinate_u) VALUES (%s,%s,%s)",
+"value" : "VALUES",
+"FIELD2" : "use",
+"DATABASE": "OG705"
+
+}

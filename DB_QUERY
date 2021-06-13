@@ -1,0 +1,7 @@
+{
+"DB_QUERY" : "create database",
+"DBNAME" :  "OG701",
+"DELIMIT" : ";",
+"FIELD1" : "SHOW DATABASES",
+"FIELD2" : "use"
+}

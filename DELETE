@@ -1,0 +1,5 @@
+{
+"delete_QUERY" : "DELETE FROM",
+"condition"  : "WHERE",
+"Fieldd" : "USE"
+}

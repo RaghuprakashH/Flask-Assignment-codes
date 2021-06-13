@@ -1,0 +1,4 @@
+{
+"create_QUERY" : "CREATE TABLE",
+"columns" : "(Chiral_indice_n int,Chiral_indice_m int,Initial_atomic_coordinate_u float,primary key(Initial_atomic_coordinate_u))"
+}
